@@ -1,23 +1,3 @@
-// let evenArr = [2, 4, 6, 8, 10]; 
-// function getSum(evenArr){
-//     let sum = 1;
-//    evenArr.forEach((num) =>{
-//         sum = sum * num;
-//     });
-//     return sum;
-// }
-// const result = getSum(evenArr);
-// console.log(result); 
-
-// let oddArr = [1, 3, 5, 7, 9]; 
-
-// function getCube(oddArr){
-//    return oddArr.map((num) =>Math.pow(num, 3));
-   
-// }
-// const result = getCube(oddArr);
-// console.log(result);
-
 // 1-masala
 // function capitalizeWords(str) {
 //     let words = str.split(" "); // Matnni so'zlarga bo'ladi
